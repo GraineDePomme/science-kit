@@ -1,6 +1,5 @@
-# TODO: Write documentation for `Science::Kit`
-module ScienceKit
-  VERSION = "0.1.0"
+require "./physical_constants.cr"
 
-  # TODO: Put your code here
+module ScienceKit
+
 end
