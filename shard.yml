@@ -1,0 +1,9 @@
+name: science-kit
+version: 0.1.0
+
+authors:
+  - GraineDePomme <guillaume.sarisson@gmail.com>
+
+crystal: '>= 1.16.3'
+
+license: MIT
