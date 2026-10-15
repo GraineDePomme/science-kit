@@ -7,6 +7,6 @@ import sciencekit.Constants
 
 main! = |_args| {
 	rydberg = Constants.rydberg_constant
-	echo!("${rydberg.to_str()}\n")
+	echo!("The Rydberg constant is ${rydberg.to_str()}\n")
 	Ok({})
 }
