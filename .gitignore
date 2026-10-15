@@ -1,0 +1,13 @@
+# Generated output
+/dist/
+/.release/
+/generated-docs/
+/.roc-package-tmp/
+__pycache__/
+*.pyc
+
+# Example binaries (keep source files and documentation).
+/examples/*
+!/examples/*.roc
+!/examples/*.md
+!/examples/*/
