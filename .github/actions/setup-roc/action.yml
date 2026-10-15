@@ -25,6 +25,6 @@ runs:
       uses: roc-lang/setup-roc@cbe782d6f165b89c87d99f50a59ac4f5f73b4427
       with:
         version: nightly-new-compiler
-        nightly-tag: ${{ steps.version.outputs.tag }}
+        #nightly-tag: ${{ steps.version.outputs.tag }}
     - shell: bash
       run: roc version
